@@ -1,6 +1,7 @@
 # Recommendation-System
 
-https://cdn-images-1.medium.com/max/1200/1*x8gTiprhLs7zflmEn1UjAQ.png
+![image](https://cdn-images-1.medium.com/max/1200/1*x8gTiprhLs7zflmEn1UjAQ.png)
+
 
 # Movie Recommendation System Overview
 
